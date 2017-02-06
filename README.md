@@ -15,7 +15,7 @@
 **借住F5的icontrol库，制作了isp_change_cmd这个cmd操作脚本，可以快速的在运营商线路之间进行业务的切换**
 
 * 流程图如下
-![](https://raw.github.com/stttt2003pk/stttt2003pk_gslb_control/master/screenshot/iControll_procedure_GTM-region.png)
+![](https://github.com/stttt2003pk/stttt2003pk_gslb_control/blob/master/screenshot/iControll_procedure.jpg)
 
 ### topology_count
 
