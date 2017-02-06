@@ -21,5 +21,5 @@
 
 * 针对GSLB的调度编排，我们需要对编排里面的文档记录进行相应的分值计算，计算出相应的结果顺序，配置相应的配置文件进行快速的应用GSLB调度变更，topology的脚本能够帮助我们根据设定的值解决计算的问题
 
-[value]()是针对各个server节点设计的算法权值
-[topology]()是根据我们需要对应的应用编排生成的计算结果
+[value](https://github.com/stttt2003pk/stttt2003pk_gslb_control/blob/master/topology_count/value.py)是针对各个server节点设计的算法权值
+[topology](https://github.com/stttt2003pk/stttt2003pk_gslb_control/blob/master/topology_count/topology.py)是根据我们需要对应的应用编排生成的计算结果
